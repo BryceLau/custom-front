@@ -1,0 +1,28 @@
+{
+  "message": {
+    "sysname": " 客服运维管理系统",
+    "sign_in": "登陆",
+    "sign_up": "注册",
+    "login": {
+      "username": "用户名",
+      "password": "密码",
+      "username_error": "请输入正确用户名",
+      "password_error": "请输入正确密码"
+    },
+    "home": {
+      "title": "首页",
+      "ownSpace": "个人中心",
+      "switchLang": "语言切换",
+      "loginOut": "退出登录",
+      "tagOption":"标签选项",
+      "tagClearAll":"关闭所有",
+      "tagCloseOther":"关闭其他"
+    },
+    "index":"我也喜欢帆板、网球、短柄墙球、游泳等等，不一而足。",
+    "sql":{
+      "title": "日志管理",
+      "maintenceTitle":"业务模型维护",
+      "executeTitle": "业务模型执行"
+    }
+  }
+}

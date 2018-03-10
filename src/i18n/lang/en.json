@@ -1,0 +1,28 @@
+{
+  "message": {
+    "sysname": "OP SYSTEM",
+    "sign_in": "SIGN IN",
+    "sign_up": "SIGN UP",
+    "login": {
+      "username": "Username",
+      "password": "Password",
+      "username_error": "Please fill in the user name",
+      "password_error": "Please fill in the password"
+    },
+    "home": {
+      "title": "HOME",
+      "ownSpace": "Personal Center",
+      "switchLang": "Switch Lang",
+      "loginOut": "Login Out",
+      "tagOption":"Options",
+      "tagClearAll":"Clear All",
+      "tagCloseOther":"Close Others"
+    },
+    "index":"I also enjoy windsurfing, tennis, racquetball, swimming, you name it. ",
+    "sql":{
+      "title": "LOG MANAGE",
+      "maintenceTitle":"MAINTENCE",
+      "executeTitle": "EXECUTE"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+src/router.js
+src/libs/*
+src/vendors/
+/webpack*

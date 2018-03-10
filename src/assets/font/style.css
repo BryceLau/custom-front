@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'font';
+  src:  url('fonts/font.eot?il7fa3');
+  src:  url('fonts/font.eot?il7fa3#iefix') format('embedded-opentype'),
+    url('fonts/font.ttf?il7fa3') format('truetype'),
+    url('fonts/font.woff?il7fa3') format('woff'),
+    url('fonts/font.svg?il7fa3#font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="kyee-"], [class*=" kyee-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.kyee-organ-o:before {
+  content: "\e912";
+}
+.kyee-organ:before {
+  content: "\e911";
+}
+.kyee-user:before {
+  content: "\e910";
+}
+.kyee-add:before {
+  content: "\e905";
+}
+.kyee-village:before {
+  content: "\e906";
+}
+.kyee-arrow-l:before {
+  content: "\e907";
+}
+.kyee-arrow-r:before {
+  content: "\e908";
+}
+.kyee-logout:before {
+  content: "\e909";
+}
+.kyee-merge:before {
+  content: "\e90a";
+}
+.kyee-modify:before {
+  content: "\e90b";
+}
+.kyee-next:before {
+  content: "\e90c";
+}
+.kyee-pre:before {
+  content: "\e90d";
+}
+.kyee-save:before {
+  content: "\e90e";
+}
+.kyee-town-o:before {
+  content: "\e90f";
+}
+.kyee-arrow-d:before {
+  content: "\e900";
+}
+.kyee-city:before {
+  content: "\e901";
+}
+.kyee-down:before {
+  content: "\e902";
+}
+.kyee-town:before {
+  content: "\e903";
+}
+.kyee-up:before {
+  content: "\e904";
+}
